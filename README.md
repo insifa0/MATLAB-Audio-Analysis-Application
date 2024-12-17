@@ -26,6 +26,7 @@ The application supports different pre-trained models for classification and ena
   - Boosted Trees
   - Narrow Neural Network
   - Medium Neural Network
+  - Quadratic SVM
 
 ---
 
@@ -39,6 +40,27 @@ The application supports different pre-trained models for classification and ena
    - `BoostedTrees.mat`
    - `NarrowNeuralNetwork.mat`, `MediumNeuralNetwork.mat`
 3. Audio files in **WAV** format.
+
+---
+
+### **Screenshots**
+Here are some screenshots to illustrate the application's interface and features:
+
+1. **Main Interface**  
+   ![Main Interface](screenshots/main_interface.png)
+
+2. **Signal Graph Visualization**  
+   ![Signal Graph](screenshots/signal_graph.png)
+
+3. **STFT Energy Distribution**  
+   ![STFT Energy](screenshots/stft_energy.png)
+
+4. **Genre Prediction Results**  
+   ![Genre Prediction](screenshots/genre_prediction.png)
+
+5. **Spektogram Graph**  
+   ![Spektogram Graph](screenshots/Spektogram.png)
+   
 
 ---
 
