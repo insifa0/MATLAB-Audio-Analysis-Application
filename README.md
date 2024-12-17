@@ -68,3 +68,31 @@ Here are some screenshots to illustrate the application's interface and features
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/audio-analysis-matlab.git
+
+2. Place all required .mat files (pre-trained models) in the project directory.
+    - Download link (https://drive.google.com/drive/folders/1YcIw4szehDwtzp1m8zk9LaINDKLE_FAD?usp=sharing)
+4. Open the project in MATLAB.
+5. Run the app0.m file to launch the application.
+
+---
+
+### **Usage**
+
+1. **Run the Application**:  
+   Launch the app by running `MATLAB-Audio-Analysis-Application.mlapp`.
+
+2. **Load an Audio File**:  
+   - Click the **Select** button.  
+   - Choose a `.wav` file from your local directory.
+
+3. **Select a Model**:  
+   - Use the dropdown menu to select the classification model.
+
+4. **Analyze the Audio**:  
+   - Click the **Analyze** button to extract features and predict the genre.
+
+5. **View Results**:  
+   - Visualize the signal, spectrogram, and STFT energy distribution in separate tabs.  
+   - The predicted genre and classification scores are displayed.
+
+
