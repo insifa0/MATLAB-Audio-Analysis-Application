@@ -67,7 +67,7 @@ Here are some screenshots to illustrate the application's interface and features
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/audio-analysis-matlab.git
+   git clone https://github.com/insifa0/audio-analysis-matlab.git
 
 2. Place all required .mat files (pre-trained models) in the project directory.
     - Download link (https://drive.google.com/drive/folders/1YcIw4szehDwtzp1m8zk9LaINDKLE_FAD?usp=sharing)
